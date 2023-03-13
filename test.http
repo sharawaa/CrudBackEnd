@@ -1,1 +1,9 @@
 get http://localhost:8000/products HTTP/1.1
+
+###
+get http://localhost:8000/brands HTTP/1.1
+
+###
+
+POST http://localhost:8000/product HTTP/1.1
+
